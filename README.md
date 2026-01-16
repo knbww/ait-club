@@ -43,6 +43,6 @@ All software code produced by AIT Club is licensed under the **MIT License**.
 ## 🤝 Connect with Us
 - **Director:** Ilyas Nigmatov ([@nigmatovily](mailto:nigmatovily@gmail.com))
 - **Website:** [aitclub.kz](https://aitclub.kz)
-- **Telegram:** [@aitclub](https://t.me/aitclub)
+- **Telegram:** [@aitclub](https://t.me/aitclub_official)
 
 *"Turning knowledge into research, research into projects, and projects into evidence."*
